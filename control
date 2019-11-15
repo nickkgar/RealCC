@@ -3,7 +3,7 @@ Name: RealCC
 Depends: mobilesubstrate
 Version: 0.0.5
 Architecture: iphoneos-arm
-Description: Actually disable WiFI and Bluetooth from CC in iOS 11.
-Maintainer: Nick Garbis
+Description: Actually disable WiFI and Bluetooth from CC in iOS 11-13. Originally created by Jake James, updated for iOS 13 by Nick Garmpis.
+Maintainer: Nick Garmpis
 Author: Jake James
 Section: Tweaks

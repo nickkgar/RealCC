@@ -1,3 +1,3 @@
 # RealCC
-Actually disable wifi & bluetooth from CC in iOS 11 - 13
+Actually disable WiFi & Bluetooth from the Control Center in iOS 11 - 13
 
